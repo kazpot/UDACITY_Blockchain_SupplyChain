@@ -1,14 +1,19 @@
 # Project 6: Architect a Blockchain Supply Chain
 
 ## UML
+
 * Activity
+
 ![image1](https://github.com/kazpot/UDACITY_Blockchain_SupplyChain/blob/master/images/Activitydiagram.png?raw=true)
 
 Sequence
+![image2](https://github.com/kazpot/UDACITY_Blockchain_SupplyChain/blob/master/images/SequenceDiagram.png?raw=true)
 
 State
+![image3](https://github.com/kazpot/UDACITY_Blockchain_SupplyChain/blob/master/images/StateDiagram.png?raw=true)
 
 Class (Data Model)
+![image4](https://github.com/kazpot/UDACITY_Blockchain_SupplyChain/blob/master/images/ClassDiagram.png?raw=true)
 
 ## Versions
 * node `11.8.0`
