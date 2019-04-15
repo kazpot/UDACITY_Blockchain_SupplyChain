@@ -1,8 +1,8 @@
 # Project 6: Architect a Blockchain Supply Chain
 
 ## UML
-Activity
-[!image1](https://github.com/kazpot/UDACITY_Blockchain_SupplyChain/blob/master/images/Activitydiagram.png)
+* Activity
+![image1](https://github.com/kazpot/UDACITY_Blockchain_SupplyChain/blob/master/images/Activitydiagram.png?raw=true)
 
 Sequence
 
