@@ -2,6 +2,7 @@
 
 ## UML
 Activity
+[!image1](https://github.com/kazpot/UDACITY_Blockchain_SupplyChain/blob/master/images/Activitydiagram.png)
 
 Sequence
 
